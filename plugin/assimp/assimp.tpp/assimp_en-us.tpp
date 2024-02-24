@@ -33,5 +33,5 @@ eature`-formats list][*A2 .]&]
 easily in U`+`+ projects.&]
 [s0; &]
 [s0; The best example to use it and the reason to be created is the 
-[^https`:`/`/github`.com`/Xemuth`/UltimateOpenGL`_V3^ UltimateOpenGL].3D 
-library created by Xemuth (Clément Hamon)]]
+[^https`:`/`/github`.com`/Xemuth`/SurfaceCtrl^ SurfaceCtrl].3D 
+class created by Xemuth (Clément Hamon)]]
